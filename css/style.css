@@ -1,0 +1,60 @@
+body{
+    background-color: darkslategray;
+   color: cadetblue;
+
+}
+.ex1 {
+  width: auto;      
+}
+
+
+h1{
+    text-shadow: 2px 2px;
+    background-color: deeppink;
+    color: chartreuse;
+}
+strong{
+    background-color: dimgray;
+    color: chocolate;
+}
+
+i{
+    background-color: floralwhite;
+    color: darkgoldenrod;
+}
+em{
+    background-color: fuchsia;
+    color: darkred;
+}
+main ul{
+      background: #3399ff;
+  padding: 20px;
+}
+
+main ul li {
+    background: #cce5ff;
+    margin: 5px;
+}
+ 
+main ol {
+    background: #ff9999;
+  padding: 20px;
+}
+
+ main ol li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
